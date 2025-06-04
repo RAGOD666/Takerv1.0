@@ -1,0 +1,4 @@
+wallet_address,protocol,host,port,username,password
+0x1234567890abcdef1234567890abcdef12345678,http,proxy1.example.com,8080,user1,pass1
+0xabcdef1234567890abcdef1234567890abcdef12,https,proxy2.example.com,3128,,
+0x9876543210abcdef1234567890abcdef12345678,socks5,proxy3.example.com,1080,user3,pass3 

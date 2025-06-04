@@ -1,0 +1,24 @@
+[
+    {
+        "wallet_address": "0x1234567890abcdef1234567890abcdef12345678",
+        "protocol": "http",
+        "host": "proxy1.example.com",
+        "port": "8080",
+        "username": "user1",
+        "password": "pass1"
+    },
+    {
+        "wallet_address": "0xabcdef1234567890abcdef1234567890abcdef12",
+        "protocol": "https",
+        "host": "proxy2.example.com",
+        "port": "3128"
+    },
+    {
+        "wallet_address": "0x9876543210abcdef1234567890abcdef12345678",
+        "protocol": "socks5",
+        "host": "proxy3.example.com",
+        "port": "1080",
+        "username": "user3",
+        "password": "pass3"
+    }
+] 
